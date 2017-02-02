@@ -1,2 +1,1 @@
-# a
-a
+# An example website
