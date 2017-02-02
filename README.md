@@ -1,2 +1,2 @@
 # An example website
-A description of the website
+A description of the Code for Sac website
